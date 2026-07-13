@@ -1,3 +1,39 @@
 {
-    "versions": []
+    "versions": [
+        {
+            "id": "legacy",
+            "name": "Legacy Version",
+            "release_date": "2021-12-07",
+            "depot": "455616957047142657",
+            "folder": "depot_264712_455616957047142657"
+        },
+        {
+            "id": "living-large",
+            "name": "Living Large",
+            "release_date": "2023-03-07",
+            "depot": "3638894940716012854",
+            "folder": "depot_264712_3638894940716012854"
+        },
+        {
+            "id": "august-2025",
+            "name": "August 2025 Update",
+            "release_date": "2025-08-01",
+            "depot": "8427274798903478123",
+            "folder": "depot_264712_8427274798903478123"
+        },
+        {
+            "id": "speedrunner",
+            "name": "Speedrunner Build",
+            "release_date": "2018-09-30",
+            "depot": "5196577974721678848",
+            "folder": "depot_264712_5196577974721678848"
+        },
+        {
+            "id": "early-access",
+            "name": "Early Access",
+            "release_date": "2014-12-16",
+            "depot": "7805288174559162834",
+            "folder": "depot_264712_7805288174559162834"
+        }
+    ]
 }

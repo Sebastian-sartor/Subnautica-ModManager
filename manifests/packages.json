@@ -4,15 +4,38 @@
             "id": "bepinex",
             "name": "BepInEx Pack",
             "version": "5.4.23",
-            "type": "tool",
-            "required": true
+            "type": "framework",
+            "required": true,
+            "destination": "game_root",
+            "install_method": "extract"
         },
         {
             "id": "nautilus",
             "name": "Nautilus",
             "version": "1.0.0-pre.52",
             "type": "library",
-            "required": true
+            "required": true,
+            "destination": "plugins",
+            "install_method": "extract"
+        },
+        {
+            "id": "ecc-library",
+            "name": "ECC Library",
+            "version": "2.2.3",
+            "type": "library",
+            "required": true,
+            "destination": "plugins",
+            "install_method": "extract"
+        },
+        {
+            "id": "terrain-patcher",
+            "name": "Terrain Patcher",
+            "version": "1.2.5",
+            "type": "library",
+            "required": true,
+            "destination": "plugins",
+            "install_method": "folder",
+            "source_folder": "TerrainPatcher"
         }
     ]
 }

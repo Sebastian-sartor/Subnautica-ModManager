@@ -1,3 +1,15 @@
 {
-    "profiles": []
+    "profiles": [
+        {
+            "id": "infinite-plague-2025",
+            "name": "The Red Plague Infinite Edition",
+            "game_version": "august-2025",
+            "packages": [
+                "bepinex",
+                "nautilus",
+                "ecc-library",
+                "terrain-patcher"
+            ]
+        }
+    ]
 }
