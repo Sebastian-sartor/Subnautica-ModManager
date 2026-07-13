@@ -1,0 +1,6 @@
+Write-Host "=========================================="
+Write-Host " Subnautica Mod Manager Installer"
+Write-Host " Version 0.0.1"
+Write-Host "=========================================="
+Write-Host ""
+Write-Host "Instalador iniciado correctamente."
