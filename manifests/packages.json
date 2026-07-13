@@ -1,3 +1,18 @@
 {
-    "packages": []
+    "packages": [
+        {
+            "id": "bepinex",
+            "name": "BepInEx Pack",
+            "version": "5.4.23",
+            "type": "tool",
+            "required": true
+        },
+        {
+            "id": "nautilus",
+            "name": "Nautilus",
+            "version": "1.0.0-pre.52",
+            "type": "library",
+            "required": true
+        }
+    ]
 }
